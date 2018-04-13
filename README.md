@@ -7,3 +7,8 @@ function Jane()
 }
 
 Jane wrote this line in this file.
+
+function Bob()
+{
+  // I am Bob. And I am lazy.
+}
