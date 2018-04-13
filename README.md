@@ -11,4 +11,5 @@ Jane wrote this line in this file.
 function Bob()
 {
   // I am Bob. And I am irresponsible.
+  // I am Bob. And I am the best.
 }
