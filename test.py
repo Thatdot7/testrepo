@@ -7,7 +7,7 @@ def process2():
     print "Bye bye";
 
 def process2():
-    print "Meow";
+    print "Moo";
 
 if __name__ == __main__ :
     process();
